@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.hotel</groupId>
     <artifactId>HotelManageService</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>dev</version>
     <name>HotelManageService</name>
     <description>HotelManageService</description>
     <properties>
